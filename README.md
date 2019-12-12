@@ -1,5 +1,5 @@
 # disk-scheduling
-Java program that simulates the disk-scheduling algorithms
+Java program that simulates the disk-scheduling algorithms.
 Separate classes that implement the following scheduling algorithms: 
 a. FCFS 
 b. SSTF 
